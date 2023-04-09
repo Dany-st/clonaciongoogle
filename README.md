@@ -19,4 +19,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 ## 3. Objetivos del proyecto
 
 ## 4. Link al Demo
-Aquí puedes visualizar mi proyecto terminado: [Clonacion a Google](#)
+Aquí puedes visualizar mi proyecto terminado: [Clonacion a Google](https://bright-mandazi-a482f8.netlify.app/)
